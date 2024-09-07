@@ -6,5 +6,5 @@ Technology and tools wise this project covers :
 2. Numpy and Pandas for data cleaning
 3. Matplotlib for data visualization
 4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
+5. Jupyter notebook and pycharm as IDE
 6. Python flask for http serve
